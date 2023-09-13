@@ -1,0 +1,2051 @@
+fileFormatVersion: 2
+guid: 8118488151f9eff4d83a85a45bd2da66
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mini_minion_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 937
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae27aabdc44ba414c9e8ee2c3530c24e
+      internalID: -337634671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 937
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d08c87638992146acddf82a782eb1d
+      internalID: 583005175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 937
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122e46d80cae1764f99d9bb1969410d9
+      internalID: 1206030455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 936
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2fc186317d696478cd3a5998592750
+      internalID: 579884294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_5
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 936
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a907092ef8bf9434faae098bef5ed784
+      internalID: 395403872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_6
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 936
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4d113737346a741a4878fc1f28ccad
+      internalID: 2053826139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 936
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6e14b25f4672642b084d72bb5c23fb
+      internalID: -2062156787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_8
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 936
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fc78d0ed125f946b76970384156128
+      internalID: 340824219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 936
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f20f7abd4062f247be4fd6abd1f4b00
+      internalID: -1296610207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 835
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a8caad9124fa64aa9d8e2fc63d0cbb
+      internalID: 596266969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 835
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156bfb50bddac354eae4053e7deb744d
+      internalID: 20224887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 835
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac27cd6cf7759e842b6bcf0ef787b812
+      internalID: -1047052592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 835
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1aed8ffe534a541bf48c57d594ed6a
+      internalID: 484400279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_15
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 835
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6928e2b7275648bd8583f4f80709a
+      internalID: -1265169757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 835
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c233fffd13210543a31f29c071a2553
+      internalID: -1342175974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_17
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 835
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe24186deb5fac4b88886ef717fa0be
+      internalID: -1850111298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_18
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 835
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe76dbb400c62d4c8edb605fce2c4e2
+      internalID: -1716799298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 835
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bac15f08577270489c9938ec5e4f725
+      internalID: 754838097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 738
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7647b287abfb61a499ef6ee2b8eef67f
+      internalID: -1125181297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 735
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5b2bba8a0edec4eab072088eec0909
+      internalID: -1468758091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 735
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f996e5de2568c94e832ed843b644b7a
+      internalID: -1601325808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_24
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 735
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3476b9b6033cb4cb24cfc592693d23
+      internalID: -804599658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 735
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc86f50a85fba5d44b95b98ee0da7c88
+      internalID: 211789213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 735
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f72ab9c5a08bfd458b58aacf8eb13e8
+      internalID: 1219102691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_27
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 735
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07231f184999a164f936d5c78e5a1d72
+      internalID: -1816612953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_28
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 735
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d976799364bb3049bf4c52b196bdff3
+      internalID: -558292858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_29
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 735
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24256318cf7b6bf49b43321c5164f05f
+      internalID: -1709395074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 633
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f481537acd29e94682f7ea47342cf43
+      internalID: 121452484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 633
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a438c9b11fbd47469e356eccf05582c
+      internalID: 1177632966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 633
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f155edadb15bb9646be0264455742150
+      internalID: 925710611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_33
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 633
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121c966d1e4ed244aa22a1500f1e902c
+      internalID: -1599297906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_34
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 633
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943d64bb877545b47a92c414b4f43624
+      internalID: 1217456445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 633
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3437d453c62bfc848aac938f70cf1834
+      internalID: 414506364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_36
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 633
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26644fcdc37b264cb40009aff018578
+      internalID: -267821198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_37
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 633
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a361c2cbb83df44b74a93fc87ce501
+      internalID: -766304533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_39
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 633
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6455cb4d015764a8205a0648b93b0d
+      internalID: 1419414237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 533
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6913c9002553f1d46a50ed8162c82358
+      internalID: 1529590932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_42
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 533
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef31b1f84a74143b775dd8951cce40
+      internalID: 936316098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_43
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 533
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4302e61c62aaa2f429bf57ba7a652aa3
+      internalID: 645561039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 533
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959aa98be589e9045a12164abd090173
+      internalID: -1088764503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_46
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 533
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceefaea9936dee94eb37caab73d75baf
+      internalID: 2099680132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_47
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 533
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315ec36153273914eab35d834c80de52
+      internalID: 117774240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_48
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 533
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f4a670f8be1584882fc30eb2b55158
+      internalID: -1582063297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_50
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 533
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f85ed033421b24478c5a79a54e62e15
+      internalID: 1666433475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_51
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 533
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3cc7611ecf57469af0b192fee7563
+      internalID: -1807047624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 431
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8433796f76b1374b977d69458486e48
+      internalID: 544321450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 431
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc49d5bdcc346a4aa30f4bf5f8ef708
+      internalID: 1241634958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_54
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 431
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a207a8b83ebbaf545b19e5131de29ca1
+      internalID: -1596267959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 431
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5b63adedd77d34ba001079de0ba482
+      internalID: -1787486520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_56
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 431
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3974ac3cd813f439b41d9cba8a5de9
+      internalID: 1805040793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_57
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 431
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46fe5fecbdcf874c8d49fb09ee89788
+      internalID: -633554342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_58
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 431
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87f659e19464a14ab79080c07ee5994
+      internalID: 628221117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_59
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 431
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca61081d00fcee43b6278b84d5d3273
+      internalID: 1070549062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_60
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 431
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2277329f4096f54090fb0f1f532be88
+      internalID: -498607975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 328
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9c2e3b70a2e794f8e9c79573fad024
+      internalID: 734477459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_62
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 331
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cd4394decedf14481083830504a019
+      internalID: -942639520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_63
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 331
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4588998edfb17bc4e8cf5fc92e3deba8
+      internalID: -1592823027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 331
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2c637a22973164ba0b94c31dadcc4f
+      internalID: -564234580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_65
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 331
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4083f1e1307e645ad404c3f4d563b2
+      internalID: 1273306594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_66
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 330
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed08458a0e7fe964f85ad29ada812222
+      internalID: -2936512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_67
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 331
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b3f5dfefbb29d408615458c396715e
+      internalID: 543290363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_68
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 331
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a581360aa207ec24cac0235dd5dd1f1f
+      internalID: -1356263623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_69
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 331
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374fa4bbf31597b409eda29572406af6
+      internalID: 23547103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_70
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 227
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b11877f1505c5c408b3d149baf6ee1b
+      internalID: -1024784532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_71
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 227
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead1c7124302b54981006fd2609f4ca
+      internalID: -350128009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_72
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 228
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f27c473b1697e45a734d0a20fcc17a
+      internalID: -1637393583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 229
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640b7df8aecd4a48abc97afb240dfae
+      internalID: -869722376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_74
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 230
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c81da5797b428549807d00da869711c
+      internalID: -1408801906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 230
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f5fbc6838c26d4eabfadb149c75373
+      internalID: -25255460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_76
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 228
+        width: 61
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5227cbc8f5e0a034389cbaed2798e8db
+      internalID: -1991854445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_78
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 230
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2886e93dfdc3994d8e0c09617dd4733
+      internalID: 517227959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_79
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 128
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f5f16d1bcb1e7449ef28df96c54ef8
+      internalID: 1513139888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_80
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 128
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5156a95268794224fb64988282be4fc2
+      internalID: -1654763220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_81
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 127
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e8869e27bdbdb42b56c7b83b30a5c1
+      internalID: 1181413832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_82
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 127
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea96cbe300daaa448a40cac48a5cf290
+      internalID: 1260797270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_83
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 128
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df93f8877ec37c947a191cf0e17acbac
+      internalID: -400946029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_84
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 127
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32ed06ab06f7d149b6c5ef3f625a8d8
+      internalID: 1763115139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_87
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 129
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0466fc7b3f925d4ab1c86298f4b5b4f
+      internalID: -1757616587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_90
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 130
+        width: 62
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf53ecd5fb0e094db47c9ca6071be78
+      internalID: -838547683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_91
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd44c3d87c26fc458dd4ac91450eecc
+      internalID: -265613081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_92
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 28
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c0c8a72f13163448ecda0208346936
+      internalID: 2094919100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_94
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 22
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4be8645b3351db43b81b598f911fa37
+      internalID: 1654621936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_95
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 21
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b2592d4be303446a7ab16b219bf873
+      internalID: -419523736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_96
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 21
+        width: 55
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0532f12705f274b9733d87a022639e
+      internalID: -834287376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_97
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 23
+        width: 70
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a64a5f86bad143419d7bb1a298d1cac
+      internalID: 1869644192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_98
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 25
+        width: 50
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7260df345ac5aa64484916f54c4d07f2
+      internalID: 946909726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_minion_100
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 22
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc40da082df9c74893c92001878baca
+      internalID: -1343082435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e00d7693d2219b54c9ca53b3f73d85f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mini_minion_49: -1115105928
+      mini_minion_58: 628221117
+      mini_minion_88: -1973508804
+      mini_minion_17: -1850111298
+      mini_minion_96: -834287376
+      mini_minion_16: -1342175974
+      mini_minion_35: 414506364
+      mini_minion_92: 2094919100
+      mini_minion_3: 579884294
+      mini_minion_8: 340824219
+      mini_minion_7: -2062156787
+      mini_minion_10: 596266969
+      mini_minion_68: -1356263623
+      mini_minion_94: 1654621936
+      mini_minion_40: 925788145
+      mini_minion_65: 1273306594
+      mini_minion_6: 2053826139
+      mini_minion_66: -2936512
+      mini_minion_61: 734477459
+      mini_minion_30: 121452484
+      mini_minion_89: 1614454229
+      mini_minion_53: 1241634958
+      mini_minion_9: -1296610207
+      mini_minion_86: 2083787824
+      mini_minion_4: -887691470
+      mini_minion_62: -942639520
+      mini_minion_57: -633554342
+      mini_minion_87: -1757616587
+      mini_minion_22: -200766380
+      mini_minion_23: -1601325808
+      mini_minion_80: -1654763220
+      mini_minion_64: -564234580
+      mini_minion_32: 925710611
+      mini_minion_69: 23547103
+      mini_minion_72: -1637393583
+      mini_minion_51: -1807047624
+      mini_minion_34: 1217456445
+      mini_minion_52: 544321450
+      mini_minion_75: -25255460
+      mini_minion_20: -1125181297
+      mini_minion_50: 1666433475
+      mini_minion_5: 395403872
+      mini_minion_31: 1177632966
+      mini_minion_93: -1112207223
+      mini_minion_12: -1047052592
+      mini_minion_21: -1468758091
+      mini_minion_84: 1763115139
+      mini_minion_73: -869722376
+      mini_minion_0: -337634671
+      mini_minion_39: 1419414237
+      mini_minion_81: 1181413832
+      mini_minion_100: -1343082435
+      mini_minion_78: 517227959
+      mini_minion_38: -1849866206
+      mini_minion_99: -1483082063
+      mini_minion_41: 1529590932
+      mini_minion_1: 583005175
+      mini_minion_60: -498607975
+      mini_minion_91: -265613081
+      mini_minion_74: -1408801906
+      mini_minion_11: 20224887
+      mini_minion_36: -267821198
+      mini_minion_54: -1596267959
+      mini_minion_82: 1260797270
+      mini_minion_56: 1805040793
+      mini_minion_70: -1024784532
+      mini_minion_24: -804599658
+      mini_minion_48: -1582063297
+      mini_minion_77: 310606315
+      mini_minion_71: -350128009
+      mini_minion_25: 211789213
+      mini_minion_46: 2099680132
+      mini_minion_85: 1188526068
+      mini_minion_79: 1513139888
+      mini_minion_14: -707263406
+      mini_minion_29: -1709395074
+      mini_minion_45: -1088764503
+      mini_minion_63: -1592823027
+      mini_minion_44: 979273066
+      mini_minion_76: -1991854445
+      mini_minion_98: 946909726
+      mini_minion_37: -766304533
+      mini_minion_18: -1716799298
+      mini_minion_2: 1206030455
+      mini_minion_42: 936316098
+      mini_minion_43: 645561039
+      mini_minion_47: 117774240
+      mini_minion_19: 754838097
+      mini_minion_15: -1265169757
+      mini_minion_28: -558292858
+      mini_minion_83: -400946029
+      mini_minion_97: 1869644192
+      mini_minion_27: -1816612953
+      mini_minion_90: -838547683
+      mini_minion_33: -1599297906
+      mini_minion_26: 1219102691
+      mini_minion_67: 543290363
+      mini_minion_55: -1787486520
+      mini_minion_13: 484400279
+      mini_minion_95: -419523736
+      mini_minion_59: 1070549062
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

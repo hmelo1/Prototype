@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e79abb996bd601440ae86cab042cf6bc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ".\x7F"
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 333d4f492836e2d4f921e1d972e93e4c, type: 3}
+  - {fileID: 12800000, guid: 22019e03a9780eb448554c6d6fbd0eed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
